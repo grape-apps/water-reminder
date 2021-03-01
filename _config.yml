@@ -40,7 +40,7 @@ features                                  :
     
   - title                                 : Log your everyday water intake
     description                           : Safely log your every day water intake amount. Track your progress
-    fontawesome_icon_name                 : sticky-note-o
+    fontawesome_icon_name                 : sticky-note
 
   - title                                 : Calendar Support
     description                           : Track your progress in calendar. See every day water intake amount in detail
