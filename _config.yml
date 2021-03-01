@@ -52,7 +52,7 @@ features                                  :
 
   - title                                 : Easy to edit water intake amounts
     description                           : Delete , add custom water intake amount 
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : list-ol 
   
   - title                                 : Widgets
     description                           : See your progress using iOS Widgets
